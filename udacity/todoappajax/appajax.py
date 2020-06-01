@@ -1,4 +1,4 @@
-import sys
+import sys as system
 from flask import Flask, render_template, abort
 from flask_sqlalchemy import SQLAlchemy
 
